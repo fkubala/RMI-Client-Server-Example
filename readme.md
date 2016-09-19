@@ -10,4 +10,4 @@ http://mstachniuk.blogspot.com/2010/10/mechanizm-rmi-remote-method-invocation.ht
 http://www.ejbtutorial.com/java-rmi/how-to-transfer-or-copy-a-file-between-computers-using-java-rmi
 
 Hope Someone would use it as a template :)
-Filip Kubala (kubalafilip0@gmail.com)
+Filip Kubala 
